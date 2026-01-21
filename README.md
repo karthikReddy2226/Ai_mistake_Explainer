@@ -1,6 +1,6 @@
-# 🌟 AI Learning Buddy 🌟
+# 🌟 AI Mistake Explainer 🌟
 
-**A playful AI-powered learning platform for students (Grades 1-10) to understand their mistakes in multiple subjects with interactive explanations).**
+**A playful AI-powered learning platform for students to understand their mistakes in multiple subjects with interactive explanations).**
 
 ---
 
@@ -15,9 +15,6 @@
 - 🌐 **Live App**: Deployed on Vercel  
 
 ---
-
-## 🖼️ Screenshots
-
 **Subject Selection & Dashboard**
 
 
